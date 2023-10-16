@@ -1,5 +1,5 @@
 import {configureStore} from '@reduxjs/toolkit';
-import counterSlice  from './src/component/counterSlice';
+import counterSlice from '../redux-counter/src/component/counterSlice.tsx';
 
 export type RootState = {
     counterR: ReturnType<typeof counterSlice>
