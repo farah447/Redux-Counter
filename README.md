@@ -28,6 +28,7 @@ If you are developing a production application, we recommend updating the config
 # redux-counter
    
 Hi there 👋
+
 This project provides a counter⏱️ using:
    
  - HTML
@@ -35,6 +36,7 @@ This project provides a counter⏱️ using:
  - React
  - TypeScript
  - Redux 
+
 
 You can view the output by clicking [here](https://redux-farah-counter.netlify.app/) 💫.
    
