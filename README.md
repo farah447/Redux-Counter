@@ -26,3 +26,15 @@ If you are developing a production application, we recommend updating the config
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # redux-counter
+   
+   Hi there 👋
+   This project provides a counter⏱️ using:
+   
+      - HTML
+      - CSS
+      - React
+      - TypeScript
+      - Redux 
+
+   You can view the output by clicking [here](https://redux-farah-counter.netlify.app/) 💫.
+   
