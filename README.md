@@ -27,8 +27,8 @@ If you are developing a production application, we recommend updating the config
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 # redux-counter
    
-   Hi there 👋
-   This project provides a counter⏱️ using:
+Hi there 👋
+This project provides a counter⏱️ using:
    
  - HTML
  - CSS
@@ -36,5 +36,5 @@ If you are developing a production application, we recommend updating the config
  - TypeScript
  - Redux 
 
-   You can view the output by clicking [here](https://redux-farah-counter.netlify.app/) 💫.
+You can view the output by clicking [here](https://redux-farah-counter.netlify.app/) 💫.
    
