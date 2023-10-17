@@ -30,11 +30,11 @@ If you are developing a production application, we recommend updating the config
    Hi there 👋
    This project provides a counter⏱️ using:
    
-      - HTML
-      - CSS
-      - React
-      - TypeScript
-      - Redux 
+ - HTML
+ - CSS
+ - React
+ - TypeScript
+ - Redux 
 
    You can view the output by clicking [here](https://redux-farah-counter.netlify.app/) 💫.
    
